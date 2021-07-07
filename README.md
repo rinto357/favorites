@@ -3,7 +3,6 @@
 Some of my favorite dev tools, tutorials, and resouces on the web
 
 ## CSS
----
 
 ### Guides
 
