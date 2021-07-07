@@ -9,7 +9,7 @@ Some of my favorite dev tools, tutorials, and resouces on the web
 - **[A Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
     - One of the most comprehensive and straightfoward guides to one of the most useful css properties. Need something spaced out or centered? This is it. 
 - [A Complete Guide To CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-    - More complex and granular than flexbox, allows for better control of space in a layout.
+    - More complex and granular than flexbox, allows for better control of size and space in a layout, at the cost some added complexity.
 - Use flexbox and grid together for robust layouts that flow and space themselves out on any device.
 
 ### Resources
